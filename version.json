@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "release_date": "2025-06-10",
-  "download_URL": "https://trajectorysolutions.ca/lander",
+  "download_url": "https://trajectorysolutions.ca/lander",
   "changelog": {
     "features": [
       "Added 'Export to PDF' button in the Pricing tab",
